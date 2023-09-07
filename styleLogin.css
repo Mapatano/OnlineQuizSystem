@@ -1,0 +1,33 @@
+body{
+
+    background-color: rgb(8, 11, 195);
+}
+
+
+#frm{  
+    width: 40%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid #B0C4DE;
+	background: white;
+	border-radius: 0px 0px 0px 0px;
+}  
+
+
+
+
+#btn{  
+    position: relative;
+    color: #fff;  
+    background:rgb(8, 11, 195);;  
+    padding: 8px;  
+    margin-left: 40%;  
+} 
+
+#user{  
+width: 40%; 
+} 
+
+#pass{  
+    width: 40%; 
+} 
